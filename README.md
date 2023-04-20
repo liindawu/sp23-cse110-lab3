@@ -1,3 +1,3 @@
-# Lab 2 - Starter
+# Lab 3
 
-https://liindawu.github.io/Lab2_Starter/
+https://liindawu.github.io/sp23-cse110-lab3/

@@ -1,11 +1,11 @@
 # Standup Notes Template
 
 ## Team Name
-**Team Name here**
+*Team Name here*
 
 ## Direct Supervisor
-**Supervisor Name here**
+*Supervisor Name here*
 
 ## Date
 | Name    | Priorities | Progress | Problems |
-| -------- | ------- |
+| -------- | ------- | -------- | ------- |

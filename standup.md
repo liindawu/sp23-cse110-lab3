@@ -9,3 +9,7 @@
 ## Date
 | Name    | Priorities | Progress | Problems |
 | -------- | ------- | -------- | ------- |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |

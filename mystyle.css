@@ -49,3 +49,11 @@ li {
 .where2go {
     display: block;
 }
+.button {
+    height: 70px;
+    width: 90px;
+}
+.fbid {
+    max-width: 600px;
+    max-height: 30px;
+}

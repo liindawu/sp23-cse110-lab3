@@ -1,10 +1,24 @@
 /* This is a css document. */
 h1 {
     background-color: rgb(126, 231, 200);
+    margin: 2vw;
+    font-size: 13mm;
   }
 h2 {
     color: #f733a5
 }
 h3 {
     color: hsl(19,100%,60%);
+}
+html {
+    font-size: .4cm;
+}
+.toc {
+    font-size: 2em;
+}
+li {
+    font-size: 1.25rem;
+}
+.date {
+    font-size: .3in;
 }

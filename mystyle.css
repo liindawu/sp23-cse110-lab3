@@ -5,7 +5,7 @@ h1 {
     font-size: 13mm;
   }
 h2 {
-    color: #f733a5
+    color: #f733a5;
 }
 h3 {
     color: hsl(19,100%,60%);
@@ -19,7 +19,7 @@ html {
 li {
     font-size: 1.25rem;
     margin: auto;
-    color:blue
+    color:blue;
 }
 .date {
     font-size: .3in;
@@ -44,4 +44,8 @@ li {
     padding: 20px 20px 20px 20px;
     text-decoration: wavy overline lime;
     text-align: center;
+    display: inline-block;
+}
+.where2go {
+    display: block;
 }

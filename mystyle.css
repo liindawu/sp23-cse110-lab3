@@ -52,8 +52,13 @@ li {
 .button {
     height: 70px;
     width: 90px;
+    position: static;
 }
 .fbid {
     max-width: 600px;
     max-height: 30px;
+}
+.audio {
+    position: relative;
+    top: 10px;
 }

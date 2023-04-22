@@ -1,1 +1,10 @@
 /* This is a css document. */
+h1 {
+    background-color: rgb(126, 231, 200);
+  }
+h2 {
+    color: #f733a5
+}
+h3 {
+    color: hsl(19,100%,60%);
+}

@@ -54,6 +54,12 @@ li {
     width: 90px;
     position: static;
 }
+.button:hover {
+    color:green;
+}
+.button:active {
+    box-shadow: 2px 2px 5px #63ff25;
+}
 .fbid {
     max-width: 600px;
     max-height: 30px;

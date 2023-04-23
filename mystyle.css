@@ -80,3 +80,8 @@ li {
     grid-template-rows: auto;
     column-gap: 10px;
 }
+@media (max-width: 1250px) {
+    body {
+      background-color: rgb(225, 173, 230);
+    }
+  }

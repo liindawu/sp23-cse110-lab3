@@ -16,6 +16,12 @@ html {
 .toc {
     font-size: 2em;
 }
+.toclist {
+    display: flex;
+    flex-wrap: wrap;
+    flex-flow: column wrap;
+    align-content: flex-start;
+}
 li {
     font-size: 1.25rem;
     margin: auto;
@@ -67,4 +73,10 @@ li {
 .audio {
     position: relative;
     top: 10px;
+}
+.what2bring {
+    display: grid;
+    grid-template-columns: 100px 100px 100px 100px;
+    grid-template-rows: auto;
+    column-gap: 10px;
 }

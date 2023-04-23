@@ -1,4 +1,7 @@
 /* This is a css document. */
+* {
+    color:rgb(9, 117, 9);
+}
 h1 {
     background-color: rgb(126, 231, 200);
     margin: 2vw;
@@ -28,7 +31,7 @@ li {
     margin: auto;
     color:blue;
 }
-.date {
+#Date {
     font-size: .3in;
     border: 5px solid rgb(95, 207, 129);
     margin-top: 30px;
@@ -85,4 +88,22 @@ li {
     body {
       background-color: rgb(214, 173, 230);
     }
-  }
+}
+h2[id="Punishments"], h2:hover {
+    color: rgb(36, 136, 202);
+}
+form label {
+    color:rgb(83, 3, 43)
+}
+fieldset > h1 {
+    background-color:rgb(234, 240, 151);
+}
+p ~ footer {
+    background-color:white;
+}
+li:first-of-type + li {
+    color: red;
+}
+p.where2go {
+    background-color:antiquewhite;
+}
